@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Janak</h1>
+<h1 align="center">Helloo 👋, I'm Janak</h1>
 
 <p align="center">
-🚀 Fuelled by Code, Driven by Creativity  
-🎓 Second-year CSE Student at VIT Vellore  
-|🌐 Web Dev | 🎨 UI/UX | 📊 Biz Curious | 💻 Problem Solver
+  <img src="https://komarev.com/ghpvc/?username=jenak26&label=Profile%20views&color=0e75b6&style=flat" alt="janak" />
+</p>
+
+<p align="center">
+  🚀 Fueled by <strong>Code</strong> • 🎨 Driven by <strong>Creativity</strong> <br>
+  🌐 Web Dev & UI/UX • 📊 Business Curious • 💡 Always Building
 </p>
 
 ---
@@ -55,6 +58,10 @@
 <!-- GitHub Stats Section (Add later when active) -->
 <!--
 ### 📊 GitHub Stats
-![Janak's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Janak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenak26&show_icons=true&theme=radical)
 -->
+
+<!--[Janak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenak26&show_icons=true&theme=radical)
+-->
+
 
