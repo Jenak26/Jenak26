@@ -55,7 +55,6 @@
 
 ---
 
-<!-- Uncomment and customize if you'd like to add stats and links -->
 
 <!-- ### 📫 Connect With Me
 
@@ -64,9 +63,14 @@
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 -->
 
-<!-- GitHub Stats -->
-<!-- 
 ### 📊 GitHub Stats
-![Janak's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenak26&show_icons=true&theme=radical)
--->
+
+> ⚙️ *Still early in my GitHub journey — watch this space!*
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jenak26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenak26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
 
