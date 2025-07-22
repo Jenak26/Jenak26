@@ -65,7 +65,7 @@
 
 ### 📊 GitHub Stats
 
-> ⚙️ *Still early in my GitHub journey — watch this space!*
+> ⚙️ *Still early in my GitHub journey — watch this space thank you!*
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jenak26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
