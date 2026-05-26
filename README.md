@@ -5,6 +5,8 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Mainframe%20Vitals-ONLINE-00ffcc?style=flat-square&logo=github&logoColor=000000" alt="Mainframe Vitals" />
+  &nbsp;
   <img src="https://profile-counter.glitch.me/Jenak26/count.svg" alt="Profile Views" />
 </p>
 
@@ -14,147 +16,166 @@
 
 ---
 
-<br>
+### 💻 Module 01: Core Systems (Languages & Runtimes)
 
 <div align="center">
-  <table width="98%" cellspacing="0" cellpadding="0" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; overflow: hidden; border-collapse: collapse;">
-    <!-- Console Header -->
-    <tr style="background-color: #161b22; height: 40px;">
-      <td colspan="2" style="padding: 10px 15px; border-bottom: 1px solid #30363d; font-family: 'SF Mono', Consolas, Fira Code, monospace; font-size: 13px; color: #00ffcc; font-weight: bold; letter-spacing: 1px;">
-        ⚡ MAINFRAME ACTIVE SUBSYSTEMS // CORE_CONSOLE_V3.0
+  <table width="98%" cellspacing="0" cellpadding="15" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; font-family: 'SF Mono', Consolas, Fira Code, monospace; overflow: hidden; border-collapse: collapse;">
+    <tr style="background-color: #161b22; height: 35px;">
+      <td style="padding: 10px 15px; border-bottom: 1px solid #30363d; font-size: 13px; color: #00ffcc; font-weight: bold; letter-spacing: 1px;">
+        ⚡ CORE_LANGUAGES_MONITOR // DIAGNOSTICS
       </td>
     </tr>
     <tr>
-      <!-- Left Side: Tech stack & Skill metrics (50% width) -->
-      <td width="50%" valign="top" style="padding: 20px; border-right: 1px solid #30363d; border-bottom: 0;">
-        <h3 style="margin-top: 0; color: #58a6ff; font-size: 14px; border-bottom: 1px solid #21262d; padding-bottom: 8px; font-family: 'SF Mono', Consolas, Fira Code, monospace; letter-spacing: 0.5px;">[01] SYSTEM_CORE_SKILLS</h3>
-        
-        <table width="100%" style="font-family: 'SF Mono', Consolas, Fira Code, monospace; font-size: 12px; color: #c9d1d9;">
-          <!-- TypeScript -->
+      <td style="padding: 20px;">
+        <table width="100%" style="font-size: 13px; color: #c9d1d9; border-collapse: separate; border-spacing: 10px 15px;">
           <tr>
-            <td width="35%" style="padding: 6px 0;">TypeScript</td>
-            <td width="65%" style="padding: 6px 0; vertical-align: middle;">
+            <!-- TypeScript -->
+            <td width="15%">TypeScript</td>
+            <td width="35%">
               <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <rect width="100" height="8" rx="4" fill="#161b22" />
                 <rect width="90" height="8" rx="4" fill="#3178c6" />
               </svg>
             </td>
+            <!-- Python -->
+            <td width="15%">Python</td>
+            <td width="35%">
+              <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="100" height="8" rx="4" fill="#161b22" />
+                <rect width="85" height="8" rx="4" fill="#f1e05a" />
+              </svg>
+            </td>
           </tr>
-          <!-- ReactJS -->
           <tr>
-            <td style="padding: 6px 0;">ReactJS</td>
-            <td style="padding: 6px 0; vertical-align: middle;">
+            <!-- JavaScript -->
+            <td>JavaScript (ES6+)</td>
+            <td>
+              <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="100" height="8" rx="4" fill="#161b22" />
+                <rect width="80" height="8" rx="4" fill="#f7df1e" />
+              </svg>
+            </td>
+            <!-- ReactJS -->
+            <td>ReactJS</td>
+            <td>
               <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <rect width="100" height="8" rx="4" fill="#161b22" />
                 <rect width="85" height="8" rx="4" fill="#00ffcc" />
               </svg>
             </td>
           </tr>
-          <!-- Python -->
           <tr>
-            <td style="padding: 6px 0;">Python</td>
-            <td style="padding: 6px 0; vertical-align: middle;">
-              <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="100" height="8" rx="4" fill="#161b22" />
-                <rect width="80" height="8" rx="4" fill="#f1e05a" />
-              </svg>
-            </td>
-          </tr>
-          <!-- C++ / C# / C -->
-          <tr>
-            <td style="padding: 6px 0;">C++ / C# / C</td>
-            <td style="padding: 6px 0; vertical-align: middle;">
+            <!-- C++ / C -->
+            <td>C++ / C</td>
+            <td>
               <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <rect width="100" height="8" rx="4" fill="#161b22" />
                 <rect width="75" height="8" rx="4" fill="#f34b7d" />
               </svg>
             </td>
+            <!-- C# -->
+            <td>C#</td>
+            <td>
+              <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <rect width="100" height="8" rx="4" fill="#161b22" />
+                <rect width="70" height="8" rx="4" fill="#178600" />
+              </svg>
+            </td>
           </tr>
-          <!-- Java -->
           <tr>
-            <td style="padding: 6px 0;">Java</td>
-            <td style="padding: 6px 0; vertical-align: middle;">
+            <!-- Java -->
+            <td>Java</td>
+            <td>
               <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <rect width="100" height="8" rx="4" fill="#161b22" />
                 <rect width="70" height="8" rx="4" fill="#b07219" />
               </svg>
             </td>
-          </tr>
-          <!-- Three.js / Canvas -->
-          <tr>
-            <td style="padding: 6px 0;">ThreeJS/WebGL</td>
-            <td style="padding: 6px 0; vertical-align: middle;">
+            <!-- SQL -->
+            <td>SQL / Databases</td>
+            <td>
               <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <rect width="100" height="8" rx="4" fill="#161b22" />
-                <rect width="80" height="8" rx="4" fill="#bd93f9" />
+                <rect width="80" height="8" rx="4" fill="#e38c00" />
               </svg>
             </td>
           </tr>
         </table>
-        
-        <br>
-        <div style="font-family: 'SF Mono', Consolas, Fira Code, monospace; font-size: 11px; color: #8b949e; line-height: 1.6; border-top: 1px dashed #21262d; padding-top: 12px;">
-          <b style="color: #c9d1d9;">🛠️ ENVIRONMENT & LOGS:</b><br>
-          • <b>Frameworks:</b> Framer Motion, GSAP, Tailwind CSS, CSS3, HTML5<br>
-          • <b>Databases:</b> PostgreSQL, MySQL, SQL Query Engines<br>
-          • <b>Infrastructure:</b> Docker, Git, GitHub Actions workflows<br>
-          • <b>Environments:</b> VS Code, Vite build-chain, LaTeX compilers, Postman, Excel
-        </div>
-      </td>
-      
-      <!-- Right Side: Projects / Modules (50% width) -->
-      <td width="50%" valign="top" style="padding: 20px; border-bottom: 0;">
-        <h3 style="margin-top: 0; color: #58a6ff; font-size: 14px; border-bottom: 1px solid #21262d; padding-bottom: 8px; font-family: 'SF Mono', Consolas, Fira Code, monospace; letter-spacing: 0.5px;">[02] SUBSYSTEM_VENTURES</h3>
-        
-        <!-- Project 1: SnapOrder -->
-        <div style="margin-bottom: 15px; padding: 12px; background-color: #161b22; border-radius: 6px; border: 1px solid #21262d;">
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
-            <a href="https://github.com/Jenak26/SnapOrder" style="font-family: 'SF Mono', Consolas, Fira Code, monospace; font-weight: bold; color: #58a6ff; font-size: 12px; text-decoration: none;">📄 SNAPORDER.ts</a>
-            <span style="font-family: 'SF Mono', Consolas, Fira Code, monospace; font-size: 8px; color: #00ffcc; border: 1px solid #00ffcc; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
-          </div>
-          <p style="margin: 0; font-size: 11px; color: #8b949e; line-height: 1.4; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
-            Multimodal food ordering agent built for <b>Swiggy Builders Club</b> using Next.js 16, Swiggy Food MCP, Gemini 2.5, and SSE streaming.
-          </p>
-        </div>
-        
-        <!-- Project 2: Algo Debugger -->
-        <div style="margin-bottom: 15px; padding: 12px; background-color: #161b22; border-radius: 6px; border: 1px solid #21262d;">
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
-            <a href="https://github.com/Jenak26/deterministic-algorithm-execution-debugger" style="font-family: 'SF Mono', Consolas, Fira Code, monospace; font-weight: bold; color: #58a6ff; font-size: 12px; text-decoration: none;">🖥️ ALGO_DEBUGGER.ts</a>
-            <span style="font-family: 'SF Mono', Consolas, Fira Code, monospace; font-size: 8px; color: #00ffcc; border: 1px solid #00ffcc; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
-          </div>
-          <p style="margin: 0; font-size: 11px; color: #8b949e; line-height: 1.4; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
-            60 FPS HTML5 Canvas algorithm execution timeline debugger with Web Audio API sound synthesis and LZW URL state sharing.
-          </p>
-        </div>
-        
-        <!-- Project 3: Volatility Engine -->
-        <div style="padding: 12px; background-color: #161b22; border-radius: 6px; border: 1px solid #21262d;">
-          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
-            <a href="https://github.com/Jenak26/vol-surface-engine" style="font-family: 'SF Mono', Consolas, Fira Code, monospace; font-weight: bold; color: #58a6ff; font-size: 12px; text-decoration: none;">📈 VOL_SURFACE.ipynb</a>
-            <span style="font-family: 'SF Mono', Consolas, Fira Code, monospace; font-size: 8px; color: #00ffcc; border: 1px solid #00ffcc; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
-          </div>
-          <p style="margin: 0; font-size: 11px; color: #8b949e; line-height: 1.4; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
-            Stochastic volatility derivatives pricing and Heston calibration model JIT-compiled with NumPy and Numba.
-          </p>
-        </div>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+---
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+### 📦 Module 02: Infrastructure & Framework Integration
+
+<div align="center">
+  <table width="98%" cellspacing="0" cellpadding="15" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; font-family: 'SF Mono', Consolas, Fira Code, monospace; overflow: hidden; border-collapse: collapse;">
+    <tr style="background-color: #161b22; height: 35px;">
+      <td style="padding: 10px 15px; border-bottom: 1px solid #30363d; font-size: 13px; color: #00ffcc; font-weight: bold; letter-spacing: 1px;">
+        ⚙️ CORE_SUB_SYSTEMS // LIBRARIES_AND_TOOLS
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px; line-height: 1.8; color: #c9d1d9; font-size: 13px;">
+        <span style="color: #58a6ff;">🚀 Frameworks & libraries:</span> ReactJS, Three.js, Framer Motion, GSAP, Tailwind CSS, CSS3, HTML5<br>
+        <span style="color: #58a6ff;">🗄️ Databases & DevOps:</span> PostgreSQL, MySQL, Docker, Git, GitHub Actions<br>
+        <span style="color: #58a6ff;">🛠️ Tools & Environments:</span> VS Code, Vite, LaTeX, Postman, Microsoft Excel
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 📊 System Diagnostics
+### 🚀 Module 03: Projects Mainframe (Subsystems)
 
-<table border="0" align="center" style="border: 0;">
+<div align="center">
+  <table width="98%" cellspacing="10" cellpadding="0" style="border-collapse: separate; border-spacing: 10px; border: 0;">
+    <tr>
+      <!-- Project 1 -->
+      <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+          <span style="color: #ffffff; font-weight: bold; font-size: 13px;">🍕 SNAPORDER.ts</span>
+          <span style="font-size: 8px; color: #00ffcc; border: 1px solid #00ffcc; padding: 1px 4px; border-radius: 3px; font-weight: bold;">ONLINE</span>
+        </div>
+        <p style="font-size: 11px; color: #8b949e; line-height: 1.5; height: 110px; margin: 0 0 10px 0;">
+          Multimodal food ordering agent built for <b>Swiggy Builders Club</b> using Next.js 16, Swiggy Food MCP, Gemini 2.5, and SSE streaming.
+        </p>
+        <a href="https://github.com/Jenak26/SnapOrder" style="color: #58a6ff; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
+      </td>
+      <!-- Project 2 -->
+      <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+          <span style="color: #ffffff; font-weight: bold; font-size: 13px;">🖥️ ALGO_DEBUG.ts</span>
+          <span style="font-size: 8px; color: #00ffcc; border: 1px solid #00ffcc; padding: 1px 4px; border-radius: 3px; font-weight: bold;">ONLINE</span>
+        </div>
+        <p style="font-size: 11px; color: #8b949e; line-height: 1.5; height: 110px; margin: 0 0 10px 0;">
+          Interactive debugger featuring a <b>60 FPS Canvas renderer</b>, Zustand state, LZ-String state compression, and Web Audio synthesis.
+        </p>
+        <a href="https://github.com/Jenak26/deterministic-algorithm-execution-debugger" style="color: #58a6ff; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
+      </td>
+      <!-- Project 3 -->
+      <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+          <span style="color: #ffffff; font-weight: bold; font-size: 13px;">📈 VOL_SURFACE.py</span>
+          <span style="font-size: 8px; color: #00ffcc; border: 1px solid #00ffcc; padding: 1px 4px; border-radius: 3px; font-weight: bold;">ONLINE</span>
+        </div>
+        <p style="font-size: 11px; color: #8b949e; line-height: 1.5; height: 110px; margin: 0 0 10px 0;">
+          Stochastic volatility derivatives pricing and Heston calibration model JIT-compiled using <b>NumPy & Numba</b>.
+        </p>
+        <a href="https://github.com/Jenak26/vol-surface-engine" style="color: #58a6ff; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 Module 04: System Diagnostics
+
+<table border="0" align="center" style="border: 0; border-collapse: collapse;">
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=Jenak26&show_icons=true&theme=tokyonight&hide_border=true" alt="Janak's GitHub Stats" width="100%">
@@ -172,7 +193,7 @@
 
 ---
 
-### 🏙️ 3D Contribution Skyline City
+### 🏙️ Module 05: 3D Contribution Skyline City
 
 This 3D isometric skyline is programmatically generated from my GitHub contribution history. Each building represents a day of code, with its height corresponding to commit frequency. Updated daily:
 
