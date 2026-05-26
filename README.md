@@ -4,24 +4,24 @@
 
 <p align="center">
   <a href="https://janakkabra.in" target="_blank">
-    <img src="https://img.shields.io/badge/Website-janakkabra.in-00ff88?style=flat-square&logo=google-chrome&logoColor=000000" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-janakkabra.in-ffb700?style=flat-square&logo=google-chrome&logoColor=000000" alt="Website" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/janak-kabra-553b4b377" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Janak%20Kabra-ff007f?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Janak%20Kabra-ff4d4d?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:connect.janak@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-connect.janak%40gmail.com-00ff88?style=flat-square&logo=gmail&logoColor=000000" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-connect.janak%40gmail.com-ffb700?style=flat-square&logo=gmail&logoColor=000000" alt="Email" />
   </a>
   &nbsp;
   <a href="https://x.com/janak484457" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter/X-@janak484457-ff007f?style=flat-square&logo=x&logoColor=ffffff" alt="Twitter/X" />
+    <img src="https://img.shields.io/badge/Twitter/X-@janak484457-ff4d4d?style=flat-square&logo=x&logoColor=ffffff" alt="Twitter/X" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+%40+VIT+Vellore;Building+highly+interactive+3D+web+experiences;Crafting+hardware-accelerated+simulation+engines;Developing+intelligent+agent-native+systems;Let%27s+write+some+beautiful+code...&font=Fira+Code&size=18&duration=4000&color=ff007f&center=true&vCenter=true&width=600&height=40" alt="Dynamic Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+%40+VIT+Vellore;Building+highly+interactive+3D+web+experiences;Crafting+hardware-accelerated+simulation+engines;Developing+intelligent+agent-native+systems;Let%27s+write+some+beautiful+code...&font=Fira+Code&size=18&duration=4000&color=ff4d4d&center=true&vCenter=true&width=600&height=40" alt="Dynamic Intro" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 <div align="center">
   <table width="98%" cellspacing="0" cellpadding="10" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; font-family: 'SF Mono', Consolas, Fira Code, monospace; overflow: hidden; border-collapse: collapse;">
     <tr style="background-color: #161b22; height: 35px;">
-      <td colspan="6" style="padding: 10px 15px; border-bottom: 1px solid #30363d; font-size: 13px; color: #ff007f; font-weight: bold; letter-spacing: 1px;">
+      <td colspan="6" style="padding: 10px 15px; border-bottom: 1px solid #30363d; font-size: 13px; color: #ff4d4d; font-weight: bold; letter-spacing: 1px;">
         ⚡ CORE_ACTIVE_SUB_SYSTEMS // ENVIRONMENT
       </td>
     </tr>
@@ -88,13 +88,13 @@
       <!-- Framer Motion -->
       <td align="center" style="padding: 15px; border: 0;">
         <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
-          <img src="https://api.iconify.design/tb:brand-framer-motion.svg?color=ff007f" width="28" height="28" />
+          <img src="https://api.iconify.design/tb:brand-framer-motion.svg?color=ff4d4d" width="28" height="28" />
         </div>
         <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Framer Motion</span>
       </td>
       <!-- GSAP -->
       <td align="center" style="padding: 15px; border: 0;">
-        <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto; font-family: system-ui, sans-serif; font-weight: bold; font-size: 12px; color: #00ff88;">
+        <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto; font-family: system-ui, sans-serif; font-weight: bold; font-size: 12px; color: #ffb700;">
           GSAP
         </div>
         <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">GSAP</span>
@@ -125,7 +125,7 @@
       <!-- SQL -->
       <td align="center" style="padding: 15px; border: 0;">
         <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
-          <img src="https://api.iconify.design/tabler:database.svg?color=00ff88" width="28" height="28" />
+          <img src="https://api.iconify.design/tabler:database.svg?color=ffb700" width="28" height="28" />
         </div>
         <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">SQL</span>
       </td>
@@ -165,7 +165,7 @@
       <!-- LaTeX -->
       <td align="center" style="padding: 15px; border: 0;">
         <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
-          <img src="https://api.iconify.design/academicons:latex.svg?color=ff007f" width="28" height="28" />
+          <img src="https://api.iconify.design/academicons:latex.svg?color=ff4d4d" width="28" height="28" />
         </div>
         <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">LaTeX</span>
       </td>
@@ -191,34 +191,34 @@
       <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
           <span style="color: #ffffff; font-weight: bold; font-size: 13px;">📈 nse-screener</span>
-          <span style="font-size: 8px; color: #00ff88; border: 1px solid #00ff88; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
+          <span style="font-size: 8px; color: #ffb700; border: 1px solid #ffb700; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
         </div>
         <p style="font-size: 11px; color: #8b949e; line-height: 1.5; height: 110px; margin: 0 0 10px 0;">
           NSE NIFTY 500 stock screener featuring a clean React UI with sub-second filtering by P/E, ROE, Debt/Equity, Revenue Growth, and Promoter Holding.
         </p>
-        <a href="https://github.com/Jenak26/nse-screener" style="color: #ff007f; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
+        <a href="https://github.com/Jenak26/nse-screener" style="color: #ff4d4d; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
       </td>
       <!-- Project 2 -->
       <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
           <span style="color: #ffffff; font-weight: bold; font-size: 13px;">🖥️ ALGO_DEBUG.ts</span>
-          <span style="font-size: 8px; color: #00ff88; border: 1px solid #00ff88; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
+          <span style="font-size: 8px; color: #ffb700; border: 1px solid #ffb700; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
         </div>
         <p style="font-size: 11px; color: #8b949e; line-height: 1.5; height: 110px; margin: 0 0 10px 0;">
           Interactive debugger featuring a <b>60 FPS Canvas renderer</b>, Zustand state, LZ-String state compression, and Web Audio synthesis.
         </p>
-        <a href="https://github.com/Jenak26/deterministic-algorithm-execution-debugger" style="color: #ff007f; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
+        <a href="https://github.com/Jenak26/deterministic-algorithm-execution-debugger" style="color: #ff4d4d; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
       </td>
       <!-- Project 3 -->
       <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
           <span style="color: #ffffff; font-weight: bold; font-size: 13px;">📈 VOL_SURFACE.py</span>
-          <span style="font-size: 8px; color: #00ff88; border: 1px solid #00ff88; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
+          <span style="font-size: 8px; color: #ffb700; border: 1px solid #ffb700; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
         </div>
         <p style="font-size: 11px; color: #8b949e; line-height: 1.5; height: 110px; margin: 0 0 10px 0;">
           Stochastic volatility derivatives pricing and Heston calibration model JIT-compiled using <b>NumPy & Numba</b>.
         </p>
-        <a href="https://github.com/Jenak26/vol-surface-engine" style="color: #ff007f; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
+        <a href="https://github.com/Jenak26/vol-surface-engine" style="color: #ff4d4d; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
       </td>
     </tr>
   </table>
@@ -230,23 +230,23 @@
 
 <div align="center">
   <!-- Profile Details Card (Wide) -->
-  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" width="98%" style="margin-bottom: 15px;" />
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="98%" style="margin-bottom: 15px;" />
   
   <table width="98%" border="0" cellpadding="5" cellspacing="5" style="border-collapse: separate; border-spacing: 10px; border: 0;">
     <tr>
       <td width="50%" align="center" valign="top" style="border: 0; padding: 0;">
-        <img src="./profile-summary-card-output/dracula/3-stats.svg" alt="GitHub Stats" width="100%" />
+        <img src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%" align="center" valign="top" style="border: 0; padding: 0;">
-        <img src="./profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time" width="100%" />
+        <img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="100%" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" valign="top" style="border: 0; padding: 0;">
-        <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos Per Language" width="100%" />
+        <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos Per Language" width="100%" />
       </td>
       <td width="50%" align="center" valign="top" style="border: 0; padding: 0;">
-        <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" width="100%" />
+        <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" width="100%" />
       </td>
     </tr>
   </table>

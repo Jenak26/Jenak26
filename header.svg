@@ -24,23 +24,23 @@
       stroke-width: 1;
     }
     .glowing-radar {
-      stroke: #00ff88;
+      stroke: #ffb700;
       stroke-width: 1.5;
       fill: none;
       transform-origin: 700px 150px;
       animation: radar 4s cubic-bezier(0.1, 0.8, 0.3, 1) infinite;
     }
     .heartbeat {
-      stroke: #ff007f;
+      stroke: #ff4d4d;
       stroke-width: 2.5;
       stroke-dasharray: 1000;
       stroke-dashoffset: 1000;
       animation: flow 6s linear infinite;
-      filter: url(#glow-pink);
+      filter: url(#glow-coral);
     }
     .cursor {
       animation: blink 1s step-end infinite;
-      fill: #00ff88;
+      fill: #ffb700;
     }
     .title {
       font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -59,14 +59,14 @@
     .hud-text {
       font-family: 'SF Mono', Consolas, Fira Code, monospace;
       font-size: 11px;
-      fill: #00ff88;
+      fill: #ffb700;
       opacity: 0.8;
     }
   </style>
   
   <defs>
-    <!-- Pink Glow Filter for Heartbeat -->
-    <filter id="glow-pink" x="-30%" y="-30%" width="160%" height="160%">
+    <!-- Coral Glow Filter for Heartbeat -->
+    <filter id="glow-coral" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="5" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
@@ -74,10 +74,10 @@
       </feMerge>
     </filter>
     
-    <!-- Title Glow Filter (White core, Pink neon glow) -->
+    <!-- Title Glow Filter (White core, Coral neon glow) -->
     <filter id="glow-title" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="5" result="blur" />
-      <feFlood flood-color="#ff007f" flood-opacity="0.8" result="flood" />
+      <feFlood flood-color="#ff4d4d" flood-opacity="0.8" result="flood" />
       <feComposite in="flood" in2="blur" operator="in" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur" />
@@ -119,15 +119,15 @@
     <line x1="0" y1="250" x2="800" y2="250" />
   </g>
 
-  <!-- Oscilloscope Wave / Heartbeat (Neon Pink) -->
+  <!-- Oscilloscope Wave / Heartbeat (Sunset Coral) -->
   <path d="M 0 150 L 100 150 L 120 120 L 140 180 L 160 150 L 300 150 L 320 80 L 340 220 L 360 150 L 500 150 L 520 130 L 540 170 L 560 150 L 800 150" class="heartbeat" />
 
-  <!-- Radar sonars (Centered at 700, 150) (Electric Mint) -->
+  <!-- Radar sonars (Centered at 700, 150) (Amber Gold) -->
   <circle cx="700" cy="150" r="40" class="glowing-radar" style="animation-delay: 0s;" />
   <circle cx="700" cy="150" r="40" class="glowing-radar" style="animation-delay: 1.33s;" />
   <circle cx="700" cy="150" r="40" class="glowing-radar" style="animation-delay: 2.66s;" />
   
-  <!-- HUD System logs (Left corner) (Electric Mint) -->
+  <!-- HUD System logs (Left corner) (Amber Gold) -->
   <text x="20" y="35" class="hud-text">SYS_INIT: SUCCESS</text>
   <text x="20" y="50" class="hud-text">PORT_LISTENER: 8080</text>
   <text x="20" y="65" class="hud-text">UPLINK: ACTIVE</text>
