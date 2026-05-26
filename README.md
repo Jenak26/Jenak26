@@ -9,103 +9,98 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CS+Student+(Year+2);Visual+Physics+%26+Web+Simulator+Enthusiast;Pushing+the+Limits+of+Hardware-Accelerated+Canvas;Let%27s+build+something+unique...&font=Fira+Code&size=20&duration=4000&color=00ffcc&center=true&vCenter=true&width=500&height=50" alt="Dynamic Intro" />
-</p>
-
-<br>
-
-<div align="center">
-  <table width="98%" cellspacing="0" cellpadding="0" style="background-color: #1e1e1e; border: 1px solid #3c3c3c; border-radius: 8px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-    <!-- Title Bar -->
-    <tr style="background-color: #323233; height: 35px; color: #cccccc; font-size: 13px;">
-      <td colspan="2" style="padding-left: 12px; border-bottom: 1px solid #252526; vertical-align: middle;">
-        <span style="color: #ff5f56; font-size: 14px; margin-right: 4px;">●</span>
-        <span style="color: #ffbd2e; font-size: 14px; margin-right: 4px;">●</span>
-        <span style="color: #27c93f; font-size: 14px; margin-right: 12px;">●</span>
-        <span style="font-family: 'SF Mono', Monaco, Consolas, monospace; font-size: 12px; color: #8e8e8e;">Visual Studio Code — developer.ts</span>
-      </td>
-    </tr>
-    <!-- Editor Workspace -->
-    <tr>
-      <!-- Sidebar Explorer (25% width) -->
-      <td width="25%" valign="top" style="background-color: #252526; border-right: 1px solid #3c3c3c; font-family: 'SF Mono', Monaco, Consolas, monospace; font-size: 12px; color: #cccccc; padding: 12px; line-height: 1.6;">
-        <div style="color: #858585; font-size: 11px; font-weight: bold; letter-spacing: 0.5px; margin-bottom: 8px;">EXPLORER: PROJECTS</div>
-        <div style="font-weight: bold; margin-bottom: 4px;">📂 jenak26</div>
-        &nbsp;&nbsp;📄 <span style="color: #4fc1ff;">developer.ts</span><br>
-        &nbsp;&nbsp;📄 <span style="color: #858585;">skills.json</span><br>
-        &nbsp;&nbsp;📄 <span style="color: #858585;">config.yaml</span><br>
-        &nbsp;&nbsp;📄 <span style="color: #858585;">skyline_generator.sh</span>
-        <br><br>
-        <div style="color: #858585; font-size: 11px; font-weight: bold; letter-spacing: 0.5px; margin-bottom: 8px;">OUTLINE</div>
-        &nbsp;&nbsp;🔷 class JanakKabra<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◽ name<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◽ level<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◽ stack<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚙️ getFocus()<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚙️ getPhilosophy()
-      </td>
-      <!-- Editor Code Content (75% width) -->
-      <td width="75%" valign="top" style="background-color: #1e1e1e; font-family: 'SF Mono', Monaco, Consolas, 'Courier New', monospace; font-size: 13px; color: #d4d4d4; padding: 0px 0px 15px 0px; line-height: 1.5;">
-        <!-- Tab Bar -->
-        <div style="background-color: #2d2d2d; height: 35px; border-bottom: 1px solid #1e1e1e; display: flex; align-items: center; padding-left: 10px;">
-          <div style="background-color: #1e1e1e; color: #ffffff; padding: 7px 16px; border-top: 1px solid #007acc; border-right: 1px solid #252526; display: flex; align-items: center; font-size: 12px; height: 20px;">
-            <span style="color: #4fc1ff; margin-right: 6px;">TS</span> developer.ts
-          </div>
-        </div>
-        <!-- Code Content -->
-        <div style="padding: 15px;">
-          <span style="color: #569cd6;">import</span> { Developer, Student } <span style="color: #569cd6;">from</span> <span style="color: #ce9178;">'world'</span>;<br><br>
-          <span style="color: #6a9955;">/**</span><br>
-          <span style="color: #6a9955;">&nbsp;* @class JanakKabra</span><br>
-          <span style="color: #6a9955;">&nbsp;* @desc Second-year CS student pushing the boundaries of web experiences.</span><br>
-          <span style="color: #6a9955;">&nbsp;*/</span><br>
-          <span style="color: #569cd6;">class</span> <span style="color: #4ec9b0;">JanakKabra</span> <span style="color: #569cd6;">extends</span> <span style="color: #4ec9b0;">Student</span> <span style="color: #569cd6;">implements</span> <span style="color: #4ec9b0;">Developer</span> {<br>
-          &nbsp;&nbsp;<span style="color: #569cd6;">public</span> <span style="color: #569cd6;">readonly</span> <span style="color: #9cdcfe;">name</span> = <span style="color: #ce9178;">"Janak Kabra"</span>;<br>
-          &nbsp;&nbsp;<span style="color: #569cd6;">public</span> <span style="color: #569cd6;">readonly</span> <span style="color: #9cdcfe;">level</span> = <span style="color: #ce9178;">"CS Student (Year 2)"</span>;<br>
-          &nbsp;&nbsp;<span style="color: #569cd6;">public</span> <span style="color: #569cd6;">readonly</span> <span style="color: #9cdcfe;">stack</span> = [<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ce9178;">"TypeScript"</span>, <span style="color: #ce9178;">"JavaScript"</span>, <span style="color: #ce9178;">"Python"</span>, <span style="color: #ce9178;">"C++"</span>,<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ce9178;">"React"</span>, <span style="color: #ce9178;">"TailwindCSS"</span>, <span style="color: #ce9178;">"Zustand"</span>, <span style="color: #ce9178;">"HTML5 Canvas"</span>,<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ce9178;">"Web Audio API"</span>, <span style="color: #ce9178;">"Git"</span>, <span style="color: #ce9178;">"Vercel"</span><br>
-          &nbsp;&nbsp;];<br><br>
-          &nbsp;&nbsp;<span style="color: #569cd6;">public</span> <span style="color: #4fc1ff;">getFocus</span>(): <span style="color: #4ec9b0;">string</span>[] {<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #c586c0;">return</span> [<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ce9178;">"Visual physics & web simulation engines"</span>,<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ce9178;">"Hardware-accelerated web UI (HTML5 Canvas rendering)"</span>,<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ce9178;">"High-performance algorithmic systems"</span><br>
-          &nbsp;&nbsp;&nbsp;&nbsp;];<br>
-          &nbsp;&nbsp;}<br><br>
-          &nbsp;&nbsp;<span style="color: #569cd6;">public</span> <span style="color: #4fc1ff;">getPhilosophy</span>(): <span style="color: #4ec9b0;">string</span> {<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #c586c0;">return</span> <span style="color: #ce9178;">"Simplicity is the ultimate sophistication. Performance is the beauty."</span>;<br>
-          &nbsp;&nbsp;}<br>
-          }
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+%40+VIT+Vellore;Building+highly+interactive+3D+web+experiences;Crafting+hardware-accelerated+simulation+engines;Developing+intelligent+agent-native+systems;Let%27s+write+some+beautiful+code...&font=Fira+Code&size=18&duration=4000&color=58a6ff&center=true&vCenter=true&width=600&height=40" alt="Dynamic Intro" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
+### 🛠️ Technical Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,js,python,cpp,react,tailwind,html,css,numpy,git,vscode,github,jupyter,vercel" alt="My Skills" />
-  </a>
-</p>
+<table width="100%" cellspacing="10" cellpadding="0" style="border-collapse: separate; border-spacing: 10px; border: 0;">
+  <tr>
+    <!-- Languages Card -->
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <h4 style="margin-top: 0; color: #58a6ff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">💻 Programming Languages</h4>
+      <div style="margin-bottom: 10px;">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,js,python,cpp,cs,java" alt="Languages" /></a>
+      </div>
+      <p style="font-size: 13px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #8b949e; margin-bottom: 0; line-height: 1.4;">
+        <b>Languages used:</b> TypeScript, JavaScript (ES6+), Python, C++, C#, Java, C, SQL
+      </p>
+    </td>
+    <!-- Frontend & 3D Card -->
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <h4 style="margin-top: 0; color: #58a6ff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">🚀 Interactive & 3D Web</h4>
+      <div style="margin-bottom: 10px;">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,threejs,html,css" alt="Frontend" /></a>
+      </div>
+      <p style="font-size: 13px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #8b949e; margin-bottom: 0; line-height: 1.4;">
+        <b>Frameworks & Libraries:</b> ReactJS, Three.js, Framer Motion, GSAP, Tailwind CSS, CSS3, HTML5
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Databases & DevOps Card -->
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <h4 style="margin-top: 0; color: #58a6ff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">🗄️ Databases & DevOps</h4>
+      <div style="margin-bottom: 10px;">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,docker,githubactions,git" alt="DevOps" /></a>
+      </div>
+      <p style="font-size: 13px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #8b949e; margin-bottom: 0; line-height: 1.4;">
+        <b>Infrastructure:</b> PostgreSQL, MySQL, Docker, Git, GitHub Actions
+      </p>
+    </td>
+    <!-- Tools Card -->
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px;">
+      <h4 style="margin-top: 0; color: #58a6ff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">🛠️ Tools & Environments</h4>
+      <div style="margin-bottom: 10px;">
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,vite,postman" alt="Tools" /></a>
+      </div>
+      <p style="font-size: 13px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #8b949e; margin-bottom: 0; line-height: 1.4;">
+        <b>Daily Tools:</b> VS Code, Vite, LaTeX, Postman, Microsoft Excel
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📂 Featured Projects
+
+<table width="100%" cellspacing="10" cellpadding="0" style="border-collapse: separate; border-spacing: 10px; border: 0;">
+  <tr>
+    <!-- Project 1 -->
+    <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+      <h3 style="margin-top: 0; color: #58a6ff;">🍕 SnapOrder</h3>
+      <p style="font-size: 13px; color: #8b949e; line-height: 1.4; height: 100px;">
+        A vision-based food ordering agent built for <b>Swiggy Builders Club</b> using Next.js, Swiggy Food MCP, Gemini 2.5 Flash, and SSE streaming.
+      </p>
+      <a href="https://github.com/Jenak26/SnapOrder" style="color: #58a6ff; text-decoration: none; font-size: 13px; font-weight: bold;">View Project →</a>
+    </td>
+    <!-- Project 2 -->
+    <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+      <h3 style="margin-top: 0; color: #58a6ff;">🖥️ Algo Debugger</h3>
+      <p style="font-size: 13px; color: #8b949e; line-height: 1.4; height: 100px;">
+        Interactive execution debugger featuring a <b>60 FPS Canvas renderer</b>, Zustand state, LZ-String state compression, and Web Audio synthesis.
+      </p>
+      <a href="https://github.com/Jenak26/deterministic-algorithm-execution-debugger" style="color: #58a6ff; text-decoration: none; font-size: 13px; font-weight: bold;">View Project →</a>
+    </td>
+    <!-- Project 3 -->
+    <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+      <h3 style="margin-top: 0; color: #58a6ff;">📈 Volatility Engine</h3>
+      <p style="font-size: 13px; color: #8b949e; line-height: 1.4; height: 100px;">
+        Derivatives pricing engine with Black-Scholes, Monte Carlo, and custom Heston calibration JIT-compiled using <b>NumPy & Numba</b>.
+      </p>
+      <a href="https://github.com/Jenak26/vol-surface-engine" style="color: #58a6ff; text-decoration: none; font-size: 13px; font-weight: bold;">View Project →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 System Diagnostics
 
-<table border="0" align="center">
+<table border="0" align="center" style="border: 0;">
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=Jenak26&show_icons=true&theme=tokyonight&hide_border=true" alt="Janak's GitHub Stats" width="100%">
