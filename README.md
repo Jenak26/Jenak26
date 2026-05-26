@@ -3,9 +3,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mainframe%20Vitals-ONLINE-ff007f?style=flat-square&logo=github&logoColor=ffffff" alt="Mainframe Vitals" />
+  <a href="https://janakkabra.in" target="_blank">
+    <img src="https://img.shields.io/badge/Website-janakkabra.in-00ff88?style=flat-square&logo=google-chrome&logoColor=000000" alt="Website" />
+  </a>
   &nbsp;
-  <img src="https://profile-counter.glitch.me/Jenak26/count.svg" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/janak-kabra-553b4b377" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Janak%20Kabra-ff007f?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:connect.janak@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-connect.janak%40gmail.com-00ff88?style=flat-square&logo=gmail&logoColor=000000" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/janak484457" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter/X-@janak484457-ff007f?style=flat-square&logo=x&logoColor=ffffff" alt="Twitter/X" />
+  </a>
 </p>
 
 <p align="center">
@@ -178,13 +190,13 @@
       <!-- Project 1 -->
       <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-          <span style="color: #ffffff; font-weight: bold; font-size: 13px;">🍕 SNAPORDER.ts</span>
+          <span style="color: #ffffff; font-weight: bold; font-size: 13px;">📈 nse-screener</span>
           <span style="font-size: 8px; color: #00ff88; border: 1px solid #00ff88; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
         </div>
         <p style="font-size: 11px; color: #8b949e; line-height: 1.5; height: 110px; margin: 0 0 10px 0;">
-          Multimodal food ordering agent built for <b>Swiggy Builders Club</b> using Next.js 16, Swiggy Food MCP, Gemini 2.5, and SSE streaming.
+          NSE NIFTY 500 stock screener featuring a clean React UI with sub-second filtering by P/E, ROE, Debt/Equity, Revenue Growth, and Promoter Holding.
         </p>
-        <a href="https://github.com/Jenak26/SnapOrder" style="color: #ff007f; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
+        <a href="https://github.com/Jenak26/nse-screener" style="color: #ff007f; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
       </td>
       <!-- Project 2 -->
       <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
@@ -207,6 +219,34 @@
           Stochastic volatility derivatives pricing and Heston calibration model JIT-compiled using <b>NumPy & Numba</b>.
         </p>
         <a href="https://github.com/Jenak26/vol-surface-engine" style="color: #ff007f; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 System Diagnostics
+
+<div align="center">
+  <!-- Profile Details Card (Wide) -->
+  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" width="98%" style="margin-bottom: 15px;" />
+  
+  <table width="98%" border="0" cellpadding="5" cellspacing="5" style="border-collapse: separate; border-spacing: 10px; border: 0;">
+    <tr>
+      <td width="50%" align="center" valign="top" style="border: 0; padding: 0;">
+        <img src="./profile-summary-card-output/dracula/3-stats.svg" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center" valign="top" style="border: 0; padding: 0;">
+        <img src="./profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top" style="border: 0; padding: 0;">
+        <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos Per Language" width="100%" />
+      </td>
+      <td width="50%" align="center" valign="top" style="border: 0; padding: 0;">
+        <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" width="100%" />
       </td>
     </tr>
   </table>
