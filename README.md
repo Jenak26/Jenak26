@@ -1,27 +1,25 @@
-# Hi there, I'm Janak Kabra! 👋
-
 <p align="center">
   <img src="header.svg" alt="Janak's Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mainframe%20Vitals-ONLINE-00ffcc?style=flat-square&logo=github&logoColor=000000" alt="Mainframe Vitals" />
+  <img src="https://img.shields.io/badge/Mainframe%20Vitals-ONLINE-ff007f?style=flat-square&logo=github&logoColor=ffffff" alt="Mainframe Vitals" />
   &nbsp;
   <img src="https://profile-counter.glitch.me/Jenak26/count.svg" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+%40+VIT+Vellore;Building+highly+interactive+3D+web+experiences;Crafting+hardware-accelerated+simulation+engines;Developing+intelligent+agent-native+systems;Let%27s+write+some+beautiful+code...&font=Fira+Code&size=18&duration=4000&color=00ffcc&center=true&vCenter=true&width=600&height=40" alt="Dynamic Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+%40+VIT+Vellore;Building+highly+interactive+3D+web+experiences;Crafting+hardware-accelerated+simulation+engines;Developing+intelligent+agent-native+systems;Let%27s+write+some+beautiful+code...&font=Fira+Code&size=18&duration=4000&color=ff007f&center=true&vCenter=true&width=600&height=40" alt="Dynamic Intro" />
 </p>
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 <div align="center">
   <table width="98%" cellspacing="0" cellpadding="10" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; font-family: 'SF Mono', Consolas, Fira Code, monospace; overflow: hidden; border-collapse: collapse;">
     <tr style="background-color: #161b22; height: 35px;">
-      <td colspan="6" style="padding: 10px 15px; border-bottom: 1px solid #30363d; font-size: 13px; color: #00ffcc; font-weight: bold; letter-spacing: 1px;">
+      <td colspan="6" style="padding: 10px 15px; border-bottom: 1px solid #30363d; font-size: 13px; color: #ff007f; font-weight: bold; letter-spacing: 1px;">
         ⚡ CORE_ACTIVE_SUB_SYSTEMS // ENVIRONMENT
       </td>
     </tr>
@@ -78,13 +76,13 @@
       <!-- Framer Motion -->
       <td align="center" style="padding: 15px; border: 0;">
         <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
-          <img src="https://api.iconify.design/tb:brand-framer-motion.svg?color=ff00c8" width="28" height="28" />
+          <img src="https://api.iconify.design/tb:brand-framer-motion.svg?color=ff007f" width="28" height="28" />
         </div>
         <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Framer Motion</span>
       </td>
       <!-- GSAP -->
       <td align="center" style="padding: 15px; border: 0;">
-        <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto; font-family: system-ui, sans-serif; font-weight: bold; font-size: 12px; color: #88ce02;">
+        <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto; font-family: system-ui, sans-serif; font-weight: bold; font-size: 12px; color: #00ff88;">
           GSAP
         </div>
         <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">GSAP</span>
@@ -115,7 +113,7 @@
       <!-- SQL -->
       <td align="center" style="padding: 15px; border: 0;">
         <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
-          <img src="https://api.iconify.design/tabler:database.svg?color=58a6ff" width="28" height="28" />
+          <img src="https://api.iconify.design/tabler:database.svg?color=00ff88" width="28" height="28" />
         </div>
         <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">SQL</span>
       </td>
@@ -155,7 +153,7 @@
       <!-- LaTeX -->
       <td align="center" style="padding: 15px; border: 0;">
         <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
-          <img src="https://api.iconify.design/academicons:latex.svg?color=ffffff" width="28" height="28" />
+          <img src="https://api.iconify.design/academicons:latex.svg?color=ff007f" width="28" height="28" />
         </div>
         <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">LaTeX</span>
       </td>
@@ -172,7 +170,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <div align="center">
   <table width="98%" cellspacing="10" cellpadding="0" style="border-collapse: separate; border-spacing: 10px; border: 0;">
@@ -181,67 +179,37 @@
       <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
           <span style="color: #ffffff; font-weight: bold; font-size: 13px;">🍕 SNAPORDER.ts</span>
-          <span style="font-size: 8px; color: #00ffcc; border: 1px solid #00ffcc; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
+          <span style="font-size: 8px; color: #00ff88; border: 1px solid #00ff88; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
         </div>
         <p style="font-size: 11px; color: #8b949e; line-height: 1.5; height: 110px; margin: 0 0 10px 0;">
           Multimodal food ordering agent built for <b>Swiggy Builders Club</b> using Next.js 16, Swiggy Food MCP, Gemini 2.5, and SSE streaming.
         </p>
-        <a href="https://github.com/Jenak26/SnapOrder" style="color: #58a6ff; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
+        <a href="https://github.com/Jenak26/SnapOrder" style="color: #ff007f; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
       </td>
       <!-- Project 2 -->
       <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
           <span style="color: #ffffff; font-weight: bold; font-size: 13px;">🖥️ ALGO_DEBUG.ts</span>
-          <span style="font-size: 8px; color: #00ffcc; border: 1px solid #00ffcc; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
+          <span style="font-size: 8px; color: #00ff88; border: 1px solid #00ff88; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
         </div>
         <p style="font-size: 11px; color: #8b949e; line-height: 1.5; height: 110px; margin: 0 0 10px 0;">
           Interactive debugger featuring a <b>60 FPS Canvas renderer</b>, Zustand state, LZ-String state compression, and Web Audio synthesis.
         </p>
-        <a href="https://github.com/Jenak26/deterministic-algorithm-execution-debugger" style="color: #58a6ff; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
+        <a href="https://github.com/Jenak26/deterministic-algorithm-execution-debugger" style="color: #ff007f; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
       </td>
       <!-- Project 3 -->
       <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
           <span style="color: #ffffff; font-weight: bold; font-size: 13px;">📈 VOL_SURFACE.py</span>
-          <span style="font-size: 8px; color: #00ffcc; border: 1px solid #00ffcc; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
+          <span style="font-size: 8px; color: #00ff88; border: 1px solid #00ff88; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
         </div>
         <p style="font-size: 11px; color: #8b949e; line-height: 1.5; height: 110px; margin: 0 0 10px 0;">
           Stochastic volatility derivatives pricing and Heston calibration model JIT-compiled using <b>NumPy & Numba</b>.
         </p>
-        <a href="https://github.com/Jenak26/vol-surface-engine" style="color: #58a6ff; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
+        <a href="https://github.com/Jenak26/vol-surface-engine" style="color: #ff007f; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
       </td>
     </tr>
   </table>
-</div>
-
----
-
-### 📊 System Diagnostics
-
-<table border="0" align="center" style="border: 0; border-collapse: collapse;">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Jenak26&show_icons=true&theme=tokyonight&hide_border=true" alt="Janak's GitHub Stats" width="100%">
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenak26&layout=compact&theme=tokyonight&hide_border=true" alt="Janak's Top Languages" width="100%">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" width="100%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jenak26&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%">
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏙️ Contributions Skyline
-
-This 3D isometric skyline is programmatically generated from my GitHub contribution history. Each building represents a day of code, with its height corresponding to commit frequency. Updated daily:
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%">
 </div>
 
 ---
