@@ -16,91 +16,155 @@
 
 ---
 
-### 💻 Module 01: Core Systems (Languages & Runtimes)
+### 🛠️ Technical Skills
 
 <div align="center">
-  <table width="98%" cellspacing="0" cellpadding="15" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; font-family: 'SF Mono', Consolas, Fira Code, monospace; overflow: hidden; border-collapse: collapse;">
+  <table width="98%" cellspacing="0" cellpadding="10" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; font-family: 'SF Mono', Consolas, Fira Code, monospace; overflow: hidden; border-collapse: collapse;">
     <tr style="background-color: #161b22; height: 35px;">
-      <td style="padding: 10px 15px; border-bottom: 1px solid #30363d; font-size: 13px; color: #00ffcc; font-weight: bold; letter-spacing: 1px;">
-        ⚡ CORE_LANGUAGES_MONITOR // DIAGNOSTICS
+      <td colspan="6" style="padding: 10px 15px; border-bottom: 1px solid #30363d; font-size: 13px; color: #00ffcc; font-weight: bold; letter-spacing: 1px;">
+        ⚡ CORE_ACTIVE_SUB_SYSTEMS // ENVIRONMENT
       </td>
     </tr>
     <tr>
-      <td style="padding: 20px;">
-        <table width="100%" style="font-size: 13px; color: #c9d1d9; border-collapse: separate; border-spacing: 10px 15px;">
-          <tr>
-            <!-- TypeScript -->
-            <td width="15%">TypeScript</td>
-            <td width="35%">
-              <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="100" height="8" rx="4" fill="#161b22" />
-                <rect width="90" height="8" rx="4" fill="#3178c6" />
-              </svg>
-            </td>
-            <!-- Python -->
-            <td width="15%">Python</td>
-            <td width="35%">
-              <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="100" height="8" rx="4" fill="#161b22" />
-                <rect width="85" height="8" rx="4" fill="#f1e05a" />
-              </svg>
-            </td>
-          </tr>
-          <tr>
-            <!-- JavaScript -->
-            <td>JavaScript (ES6+)</td>
-            <td>
-              <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="100" height="8" rx="4" fill="#161b22" />
-                <rect width="80" height="8" rx="4" fill="#f7df1e" />
-              </svg>
-            </td>
-            <!-- ReactJS -->
-            <td>ReactJS</td>
-            <td>
-              <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="100" height="8" rx="4" fill="#161b22" />
-                <rect width="85" height="8" rx="4" fill="#00ffcc" />
-              </svg>
-            </td>
-          </tr>
-          <tr>
-            <!-- C++ / C -->
-            <td>C++ / C</td>
-            <td>
-              <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="100" height="8" rx="4" fill="#161b22" />
-                <rect width="75" height="8" rx="4" fill="#f34b7d" />
-              </svg>
-            </td>
-            <!-- C# -->
-            <td>C#</td>
-            <td>
-              <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="100" height="8" rx="4" fill="#161b22" />
-                <rect width="70" height="8" rx="4" fill="#178600" />
-              </svg>
-            </td>
-          </tr>
-          <tr>
-            <!-- Java -->
-            <td>Java</td>
-            <td>
-              <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="100" height="8" rx="4" fill="#161b22" />
-                <rect width="70" height="8" rx="4" fill="#b07219" />
-              </svg>
-            </td>
-            <!-- SQL -->
-            <td>SQL / Databases</td>
-            <td>
-              <svg width="100%" height="8" viewBox="0 0 100 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="100" height="8" rx="4" fill="#161b22" />
-                <rect width="80" height="8" rx="4" fill="#e38c00" />
-              </svg>
-            </td>
-          </tr>
-        </table>
+      <!-- Row 1 -->
+      <!-- TypeScript -->
+      <td align="center" width="16.6%" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">TypeScript</span>
+      </td>
+      <!-- JavaScript -->
+      <td align="center" width="16.6%" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">JavaScript</span>
+      </td>
+      <!-- Python -->
+      <td align="center" width="16.6%" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Python</span>
+      </td>
+      <!-- C++ -->
+      <td align="center" width="16.6%" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">C++</span>
+      </td>
+      <!-- C# -->
+      <td align="center" width="16.6%" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">C#</span>
+      </td>
+      <!-- Java -->
+      <td align="center" width="16.6%" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Java</span>
+      </td>
+    </tr>
+    <tr>
+      <!-- Row 2 -->
+      <!-- React -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">ReactJS</span>
+      </td>
+      <!-- Tailwind -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Tailwind</span>
+      </td>
+      <!-- ThreeJS -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Three.js</span>
+      </td>
+      <!-- Framer Motion -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
+          <img src="https://api.iconify.design/tb:brand-framer-motion.svg?color=ff00c8" width="28" height="28" />
+        </div>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Framer Motion</span>
+      </td>
+      <!-- GSAP -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto; font-family: system-ui, sans-serif; font-weight: bold; font-size: 12px; color: #88ce02;">
+          GSAP
+        </div>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">GSAP</span>
+      </td>
+      <!-- HTML5 -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">HTML5</span>
+      </td>
+    </tr>
+    <tr>
+      <!-- Row 3 -->
+      <!-- CSS3 -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">CSS3</span>
+      </td>
+      <!-- PostgreSQL -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">PostgreSQL</span>
+      </td>
+      <!-- MySQL -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">MySQL</span>
+      </td>
+      <!-- SQL -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
+          <img src="https://api.iconify.design/tabler:database.svg?color=58a6ff" width="28" height="28" />
+        </div>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">SQL</span>
+      </td>
+      <!-- Docker -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Docker</span>
+      </td>
+      <!-- Git -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Git</span>
+      </td>
+    </tr>
+    <tr>
+      <!-- Row 4 -->
+      <!-- Github -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Github</span>
+      </td>
+      <!-- VS Code -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">VS Code</span>
+      </td>
+      <!-- Vite -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Vite</span>
+      </td>
+      <!-- Postman -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Postman</span>
+      </td>
+      <!-- LaTeX -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
+          <img src="https://api.iconify.design/academicons:latex.svg?color=ffffff" width="28" height="28" />
+        </div>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">LaTeX</span>
+      </td>
+      <!-- Excel -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
+          <img src="https://api.iconify.design/ri:file-excel-2-fill.svg?color=217346" width="28" height="28" />
+        </div>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Excel</span>
       </td>
     </tr>
   </table>
@@ -108,28 +172,7 @@
 
 ---
 
-### 📦 Module 02: Infrastructure & Framework Integration
-
-<div align="center">
-  <table width="98%" cellspacing="0" cellpadding="15" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; font-family: 'SF Mono', Consolas, Fira Code, monospace; overflow: hidden; border-collapse: collapse;">
-    <tr style="background-color: #161b22; height: 35px;">
-      <td style="padding: 10px 15px; border-bottom: 1px solid #30363d; font-size: 13px; color: #00ffcc; font-weight: bold; letter-spacing: 1px;">
-        ⚙️ CORE_SUB_SYSTEMS // LIBRARIES_AND_TOOLS
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 20px; line-height: 1.8; color: #c9d1d9; font-size: 13px;">
-        <span style="color: #58a6ff;">🚀 Frameworks & libraries:</span> ReactJS, Three.js, Framer Motion, GSAP, Tailwind CSS, CSS3, HTML5<br>
-        <span style="color: #58a6ff;">🗄️ Databases & DevOps:</span> PostgreSQL, MySQL, Docker, Git, GitHub Actions<br>
-        <span style="color: #58a6ff;">🛠️ Tools & Environments:</span> VS Code, Vite, LaTeX, Postman, Microsoft Excel
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🚀 Module 03: Projects Mainframe (Subsystems)
+### 🚀 Featured Projects
 
 <div align="center">
   <table width="98%" cellspacing="10" cellpadding="0" style="border-collapse: separate; border-spacing: 10px; border: 0;">
@@ -138,7 +181,7 @@
       <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
           <span style="color: #ffffff; font-weight: bold; font-size: 13px;">🍕 SNAPORDER.ts</span>
-          <span style="font-size: 8px; color: #00ffcc; border: 1px solid #00ffcc; padding: 1px 4px; border-radius: 3px; font-weight: bold;">ONLINE</span>
+          <span style="font-size: 8px; color: #00ffcc; border: 1px solid #00ffcc; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
         </div>
         <p style="font-size: 11px; color: #8b949e; line-height: 1.5; height: 110px; margin: 0 0 10px 0;">
           Multimodal food ordering agent built for <b>Swiggy Builders Club</b> using Next.js 16, Swiggy Food MCP, Gemini 2.5, and SSE streaming.
@@ -149,7 +192,7 @@
       <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
           <span style="color: #ffffff; font-weight: bold; font-size: 13px;">🖥️ ALGO_DEBUG.ts</span>
-          <span style="font-size: 8px; color: #00ffcc; border: 1px solid #00ffcc; padding: 1px 4px; border-radius: 3px; font-weight: bold;">ONLINE</span>
+          <span style="font-size: 8px; color: #00ffcc; border: 1px solid #00ffcc; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
         </div>
         <p style="font-size: 11px; color: #8b949e; line-height: 1.5; height: 110px; margin: 0 0 10px 0;">
           Interactive debugger featuring a <b>60 FPS Canvas renderer</b>, Zustand state, LZ-String state compression, and Web Audio synthesis.
@@ -160,7 +203,7 @@
       <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
           <span style="color: #ffffff; font-weight: bold; font-size: 13px;">📈 VOL_SURFACE.py</span>
-          <span style="font-size: 8px; color: #00ffcc; border: 1px solid #00ffcc; padding: 1px 4px; border-radius: 3px; font-weight: bold;">ONLINE</span>
+          <span style="font-size: 8px; color: #00ffcc; border: 1px solid #00ffcc; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
         </div>
         <p style="font-size: 11px; color: #8b949e; line-height: 1.5; height: 110px; margin: 0 0 10px 0;">
           Stochastic volatility derivatives pricing and Heston calibration model JIT-compiled using <b>NumPy & Numba</b>.
@@ -173,7 +216,7 @@
 
 ---
 
-### 📊 Module 04: System Diagnostics
+### 📊 System Diagnostics
 
 <table border="0" align="center" style="border: 0; border-collapse: collapse;">
   <tr>
@@ -193,7 +236,7 @@
 
 ---
 
-### 🏙️ Module 05: 3D Contribution Skyline City
+### 🏙️ Contributions Skyline
 
 This 3D isometric skyline is programmatically generated from my GitHub contribution history. Each building represents a day of code, with its height corresponding to commit frequency. Updated daily:
 
