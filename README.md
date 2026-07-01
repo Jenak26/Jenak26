@@ -225,13 +225,13 @@
       <!-- Project 1 -->
       <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-          <span style="color: #ffffff; font-weight: bold; font-size: 13px;">📈 nse-screener</span>
-          <span style="font-size: 8px; color: #ffb700; border: 1px solid #ffb700; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
+          <span style="color: #ffffff; font-weight: bold; font-size: 13px;">🧩 RAFT_KV.go</span>
+          <span style="font-size: 8px; color: #ffb700; border: 1px solid #ffb700; padding: 1px 4px; border-radius: 3px; font-weight: bold;">VERIFIED</span>
         </div>
         <p style="font-size: 11px; color: #8b949e; line-height: 1.5; height: 110px; margin: 0 0 10px 0;">
-          NSE NIFTY 500 stock screener featuring a clean React UI with sub-second filtering by P/E, ROE, Debt/Equity, Revenue Growth, and Promoter Holding.
+          From-scratch <b>Raft consensus</b> in Go backing a linearizable key-value store — verified under seeded, Jepsen-style fault injection with a hand-written linearizability checker.
         </p>
-        <a href="https://github.com/Jenak26/nse-screener" style="color: #ff4d4d; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
+        <a href="https://github.com/Jenak26/raftkv" style="color: #ff4d4d; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
       </td>
       <!-- Project 2 -->
       <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
@@ -247,13 +247,13 @@
       <!-- Project 3 -->
       <td width="33%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 15px; font-family: 'SF Mono', Consolas, Fira Code, monospace;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-          <span style="color: #ffffff; font-weight: bold; font-size: 13px;">📈 VOL_SURFACE.py</span>
+          <span style="color: #ffffff; font-weight: bold; font-size: 13px;">🔐 CRYPTO_VAULT.java</span>
           <span style="font-size: 8px; color: #ffb700; border: 1px solid #ffb700; padding: 1px 4px; border-radius: 3px; font-weight: bold;">LIVE</span>
         </div>
         <p style="font-size: 11px; color: #8b949e; line-height: 1.5; height: 110px; margin: 0 0 10px 0;">
-          Stochastic volatility derivatives pricing and Heston calibration model JIT-compiled using <b>NumPy & Numba</b>.
+          Crypto-agile secrets vault: <b>envelope encryption</b> (AES-256-GCM · ChaCha20-Poly1305), key rotation, JWT auth with revocation, and from-scratch TOTP MFA. Java 21 · Spring Boot.
         </p>
-        <a href="https://github.com/Jenak26/vol-surface-engine" style="color: #ff4d4d; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
+        <a href="https://github.com/Jenak26/cryptovault" style="color: #ff4d4d; text-decoration: none; font-size: 12px; font-weight: bold;">View Subsystem →</a>
       </td>
     </tr>
   </table>
