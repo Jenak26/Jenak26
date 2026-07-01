@@ -177,6 +177,41 @@
         <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Excel</span>
       </td>
     </tr>
+    <tr>
+      <!-- Row 5 -->
+      <!-- Go -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Go</span>
+      </td>
+      <!-- Next.js -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Next.js</span>
+      </td>
+      <!-- Spring Boot -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Spring Boot</span>
+      </td>
+      <!-- Redis -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Redis</span>
+      </td>
+      <!-- NumPy -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <div style="background-color: #1a1a1a; width: 48px; height: 48px; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin: 0 auto;">
+          <img src="https://api.iconify.design/simple-icons:numpy.svg?color=ffb700" width="28" height="28" />
+        </div>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">NumPy</span>
+      </td>
+      <!-- Vercel -->
+      <td align="center" style="padding: 15px; border: 0;">
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" /><br>
+        <span style="font-size: 11px; color: #8b949e; display: block; margin-top: 6px;">Vercel</span>
+      </td>
+    </tr>
   </table>
 </div>
 
