@@ -132,7 +132,7 @@
   <text x="20" y="50" class="hud-text">PORT_LISTENER: 8080</text>
   <text x="20" y="65" class="hud-text">UPLINK: ACTIVE</text>
   <text x="20" y="255" class="hud-text">HOST: VIT_VELLORE</text>
-  <text x="20" y="270" class="hud-text">KERNEL: YEAR_2_CS</text>
+  <text x="20" y="270" class="hud-text">KERNEL: YEAR_3_CS</text>
 
   <!-- Title Section -->
   <rect x="140" y="90" width="520" height="120" rx="6" fill="#0d1117" fill-opacity="0.9" stroke="#30363d" stroke-width="1.5" />
